@@ -1,4 +1,4 @@
-# -Prediction-using-Unsupervised-ML
+# Prediction-using-Unsupervised-ML
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) 
 ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 ### Task-2 from One-Month Internship @ GRIP The Sparks Foundation as a Data Science and Business Analytics Intern. <br>
